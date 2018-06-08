@@ -36,6 +36,18 @@
     },
     "cordova-plugin-vibration": {
       "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "com.test.testapp"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.test.testapp"
     }
   },
   "dependent_plugins": {
